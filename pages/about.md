@@ -3,10 +3,11 @@ layout: default
 title: About
 ---
 
-Hello! This is my awesome about page! Check out some cool links:
+Hello! This is my blog! I made it with [CMS.js ](https://cdmedia.github.io/cms.js/)
 
-* [Smashing Magazine](https://www.smashingmagazine.com)
-* [TechCrunch](http://techcrunch.com/)
-* [Ars Technica](http://arstechnica.com/)
-* [Codoki](http://codoki.com/)
-* [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+Hopefully I'll keep it updated. 
+
+
+

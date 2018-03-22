@@ -3,7 +3,7 @@ layout: post
 title: Creating this Blog
 ---
 
-As you may or may not know, I'm running this whole site through [Github Pages](https://pages.github.com/). It's pretty awesome. It's pretty simple and I can run everything from a single Github Repository. And it's free too. A previous version of this site was run through a small combined CMS / Hosting platform called [Webhook](http://www.webhook.com/). It wasn't expensive, but it also wasn't free. 
+As you may, or may not, know, I'm running this whole site through [Github Pages](https://pages.github.com/). It's pretty awesome. It's pretty simple and I can run everything from a single Github Repository. And it's free too. A previous version of this site was run through a small combined CMS / Hosting platform called [Webhook](http://www.webhook.com/). It wasn't expensive, but it also wasn't free. 
 
 While Webhook made it very easy to create a blog, it's a little more complicated with Github Pages. As it's just a repository full of HTML, CSS and Javascript files, I would have to create new pages for each individual blog post. Doable, but horribly boring and inefficient.  
 
